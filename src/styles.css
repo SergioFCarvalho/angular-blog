@@ -10,3 +10,7 @@
 a {
   text-decoration: none;
 }
+hr {
+  border-color: #cccccc;
+  opacity: 0.1;
+}
